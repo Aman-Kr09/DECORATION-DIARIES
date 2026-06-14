@@ -4,6 +4,9 @@ A soulful digital storefront for Indian handcrafted treasures.
 Built with **HTML5 + Tailwind CSS**, this responsive e-commerce site showcases traditional beauty with a modern, elegant flair.
 
 ---
+LIVE LINK: https://decoration-diaries.vercel.app/
+
+---
 
 ## ✨ Overview
 
